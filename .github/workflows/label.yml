@@ -11,4 +11,4 @@ jobs:
         project-url: "https://github.com/orgs/github/projects/1"
         column-name: "Candidates for Ready"
         label-name: "Status: Up next"
-        columns-to-ignore: "Doing, Needs Review, Done"
+        columns-to-ignore: "Doing,Needs Review,Done"
