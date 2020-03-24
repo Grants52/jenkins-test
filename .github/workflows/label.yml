@@ -8,7 +8,7 @@ jobs:
     - uses: konradpabjan/move-labeled-or-milestoned-issue@v2.0
       with:
         action-token: "${{ secrets.MY_TOKEN }}"
-        project-url: "https://github.com/orgs/github/projects/1"
+        project-url: "https://github.com/Grants52/jenkins-test/projects/1"
         column-name: "Candidates for Ready"
         label-name: "Status: Up next"
         columns-to-ignore: "Doing,Needs Review,Done"
